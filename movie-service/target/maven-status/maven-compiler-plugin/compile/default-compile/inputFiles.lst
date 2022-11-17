@@ -1,0 +1,10 @@
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\repositories\MovieRepository.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\controllers\MovieController.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\MovieServiceApplication.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\services\MovieService.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\services\StreamingService.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\services\TrailerService.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\models\Movie.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\controllers\TrailerController.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\models\Trailer.java
+F:\Microservices\microservices-movie\movie-service\src\main\java\com\serverapp\movieservice\repositories\TrailerRepository.java

@@ -1,0 +1,10 @@
+com\serverapp\movieservice\repositories\MovieRepository.class
+com\serverapp\movieservice\services\TrailerService.class
+com\serverapp\movieservice\repositories\TrailerRepository.class
+com\serverapp\movieservice\services\MovieService.class
+com\serverapp\movieservice\MovieServiceApplication.class
+com\serverapp\movieservice\controllers\TrailerController.class
+com\serverapp\movieservice\services\StreamingService.class
+com\serverapp\movieservice\controllers\MovieController.class
+com\serverapp\movieservice\models\Movie.class
+com\serverapp\movieservice\models\Trailer.class
