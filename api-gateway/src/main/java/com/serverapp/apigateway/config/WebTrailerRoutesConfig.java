@@ -14,10 +14,6 @@ public class WebTrailerRoutesConfig {
                 .route("stream", t -> t.path("/api/v1/video/**")
                         .filters(rw -> rw.rewritePath("/api/v1/video/(?<name>.*)", "/api/v1/video/${name}"))
                         .uri("lb://trailer-service"))
-             /*   .route("segments", t -> t.path("/api/v1/video/**")
-                        .filters(rw -> rw.rewritePath("/api/v1/video/(?<segment>.*)", "/api/v1/video/${segment}"))
-                        .uri("lb://trailer-service"))*/
-
                 .build();
     }
 }

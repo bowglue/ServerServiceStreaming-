@@ -35,6 +35,7 @@ public class MovieService {
                 String[] values = line.split("\\|");
                 Movie movie = new Movie();
                 movie.setName(values[0]);
+
                 //Wide_images
                 Arrays.stream(wide_images).filter((wide_image) ->
                     values[1].equals(wide_image.getOriginalFilename().split("\\.")[0])
