@@ -48,5 +48,4 @@ public class MovieController {
                              @RequestParam("title") MultipartFile movie_title) throws IOException{
         return  movieService.updateTitle(id, movie_title);
     }
-
 }
